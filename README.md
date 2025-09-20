@@ -17,10 +17,8 @@ Analista de Sistemas de Automação, atuando principalmente na indústria alimen
 ### 🚀 Projetos de Destaque
 - **MIQ – Monitoramento de Informações e Qualidade**  
   Ecossistema de monitoramento e análise de processos de refino de óleo e produção industrial.  
-- **Dashboards com Flask & Dash**  
-  Visualização em tempo real de produção, recirculação e reprocesso.  
-- **APIs & SQL Views**  
-  Construção de endpoints e visões SQL para análise histórica e em tempo real.  
+- **Dashboards com Flask, Dash & SQL View**  
+  Construção de endpoints e visões SQL para análise histórica e em tempo real com gráficos interativos.  
 - **Projetos Pessoais**  
   - Sistema de monitoramento de tanques em tempo real  
   - Bancada de testes para automação  
