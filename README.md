@@ -6,10 +6,10 @@ Analista de Sistemas de Automação, atuando principalmente na indústria alimen
 ---
 
 ### 🛠️ Tecnologias & Habilidades
-- **Linguagens & Frameworks**: Python (Flask, Dash, Pandas, SQLAlchemy)  
+- **Linguagens & Frameworks**: Python (Flask, Dash, Pandas, SQLAlchemy), Java (OpenCV, Tess4J), Flutter
 - **Banco de Dados**: SQL Server, SQLite  
-- **Automação Industrial**: Siemens S7-1200/1500, LOGO! v8.4, Wago, ABB PLCs  
-- **Supervisórios & Visualização**: InduSoft Web Studio, Grafana  
+- **Automação Industrial**: Siemens S7-1200/1500, LOGO! v8.4, PLCs  
+- **Supervisórios & Visualização**: InduSoft Web Studio, Elipse E3, Grafana  
 - **Protocolos Industriais**: Profinet, Modbus, OPC UA  
 
 ---
@@ -36,8 +36,7 @@ Gosto de criar soluções práticas que conectam o mundo físico da automação 
 ---
 
 ### 🌐 Onde me encontrar
-- [LinkedIn](https://www.linkedin.com/) *(adicione aqui seu link)*  
-- *(Opcional: GitHub Pages / Website Pessoal)*  
+- [LinkedIn](www.linkedin.com/in/lucas-rc00)
 
 ---
 
